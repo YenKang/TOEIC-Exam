@@ -147,4 +147,6 @@
 * 提早練習express opinion
 * 30mins-> 300字
 
-
+### Next Lesson
+* [C2] 04/23(Sat) 13:00-13:50
+* [C3] 04/30(Sat) 12:30-13:20
