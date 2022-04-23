@@ -2,8 +2,8 @@
 
 | Course   | Date     | Remark |
 | -------- | -------- | -------- |
-| [00]TOEIC_PreClass | 04/17(Sat)|    |
-| [01]TOEIC SW_Rules X Question_Analysis | 04/20(Wed)|    |
+| [[00]TOEIC_PreClass](https://github.com/YenKang/TOEIC-Exam/blob/main/AmazingTalker/%5B00%5DTOEIC_PreClass.md) | 04/17(Sat)|    |
+| [[01]TOEIC SW_Rules X Question_Analysis](https://github.com/YenKang/TOEIC-Exam/blob/main/AmazingTalker/%5B01%5DTOEIC%20SW_Rules%20X%20Question_Analysis.md) | 04/20(Wed)|    |
 | [02] | 04/23(Sat) 13:00|    |
 | [03] | 04/30(Sat) 12:30|    |
 | [04] | 05/03(Tue) 19:30|    |
