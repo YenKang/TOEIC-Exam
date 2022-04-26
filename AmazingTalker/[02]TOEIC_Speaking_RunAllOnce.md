@@ -13,7 +13,7 @@
 | 4依據題題目資料應答| 3 | 15 or 30s | 根據資料應答 
 | 5陳述意見 | 1 | 準備30秒，口說60秒 |陳述意見並說明理由 |
 
-## Part1 朗讀
+## Part1 朗讀 (Q1,Q2)
 * 準備45秒， 作答時間45秒
 
 If you're shopping, sightseeing and running around every minute, your vacation can seem like hard work. 
@@ -24,7 +24,7 @@ and many outdoor activities, the inn is the perfect place for a vacation you won
 The Blue Valley Inn prides itself on the personal attention it provides to every guest. 
 The Blue Valley motto has always been "A happy guest is our greatest treasure."
 
-## Part2 描述圖片
+## Part2 描述圖片 (Q3)
 * 準備30秒，作答45秒
 
 ![](https://i.imgur.com/QO1fQSu.png)
@@ -39,7 +39,7 @@ The Blue Valley motto has always been "A happy guest is our greatest treasure."
 > * 3.圖中人物衣著 -> 天氣季節 (ex.short sleeve->summer)
 > * 4.自身經驗 (時間固定 ex.last week)
 
-## Part3 回答問題
+## Part3 回答問題 (Q4,Q5,Q6)
 
 * Q5-Q7 Respond to questions (15; 30)
 * Key point:Quantity + fluency + quick response
@@ -67,7 +67,7 @@ The Blue Valley motto has always been "A happy guest is our greatest treasure."
 
 > * (6) Yes, I.....
 
-## Part4 依據題題目資料應答
+## Part4 依據題題目資料應答 (Q7,Q8,Q9)
 
 * 總共三題 (Q8,Q9,Q10)
 * 第1,2題15秒 (15秒約2個完整句子)
@@ -92,7 +92,7 @@ The Blue Valley motto has always been "A happy guest is our greatest treasure."
 * The first session are about "financing your business" in Room 210 and the speaker is Martha Rose, who is Certified Public Account.
 * 
 
-## Part 5陳述意見
+## Part 5陳述意見 (Q10)
 * Q11 準備30秒，回答60秒
 
 Question:
