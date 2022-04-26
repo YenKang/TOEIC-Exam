@@ -45,7 +45,7 @@ The Blue Valley motto has always been "A happy guest is our greatest treasure."
 * Key point:Quantity + fluency + quick response
 * 回答心法:主要是展現流暢度，還有瞎掰能力，而非真偽性
 
-## 題型:
+## P3 題型:
 
 ### (1)How often.....?
 > (1) 句 + twice a week
@@ -76,7 +76,7 @@ The Blue Valley motto has always been "A happy guest is our greatest treasure."
 
 ![](https://i.imgur.com/yz0QSRU.png)
 
-## 問題:
+## P4 問題:
 
 #### Question 8: Could you tell me what time the conference starts and how long it will last?
 
@@ -99,7 +99,7 @@ Question:
 (Narrator): Some people prefer to take a job that does not pay well but does provide a lot of time off from work. What
 is your opinion about taking a job with a low salary that has a lot of vacation time? Give reasons for your opinion.
 
-## 作答技巧:
+## P5 作答技巧:
 
 ### 模板:
 > 1.Introduction Opinion
