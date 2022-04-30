@@ -75,8 +75,11 @@ I want to express my ~~appreciate~~ to the ~~welcome~~ and let me know I can ask
 > * Second, I would like to know where I can find the fitness center whose coaches have the body-building certification as I have the habit of weight lifting every day and want to take part in the body building competition in the future.
 
 > I look forward to your rapid reply. 
+> 
 > Thanks for your kindly help.
+> 
 > Best Regards,
+> 
 > Bryan 
 
 
