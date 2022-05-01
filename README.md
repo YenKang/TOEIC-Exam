@@ -5,7 +5,7 @@
 | [[00]TOEIC_PreClass](https://github.com/YenKang/TOEIC-Exam/blob/main/AmazingTalker/%5B00%5DTOEIC_PreClass.md) | 04/17(Sat)|    |
 | [[01]TOEIC SW_Rules X Question_Analysis](https://github.com/YenKang/TOEIC-Exam/blob/main/AmazingTalker/%5B01%5DTOEIC%20SW_Rules%20X%20Question_Analysis.md) | 04/20(Wed)|    |
 | [[02]TOEIC_Speaking_RunAllOnce](https://github.com/YenKang/TOEIC-Exam/blob/main/AmazingTalker/%5B02%5DTOEIC_Speaking_RunAllOnce.md) | 04/25(Mon) 18:30|    |
-| [03] | 04/30(Sat) 12:30|    |
+| [[03]TOEIC_Wrting Exam Template](https://github.com/YenKang/TOEIC-Exam/blob/main/AmazingTalker/%5B03%5DTOEIC_Wrting%20Exam%20Template.md) | 04/30(Sat) 12:30|    |
 | [04] | 05/03(Tue) 19:30|    |
 | [05] | 05/10(Tue) 19:30|    |
 | [06] | 05/17(Tue) 19:30|    |
