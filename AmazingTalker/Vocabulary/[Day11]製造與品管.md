@@ -21,4 +21,12 @@
 
 ## Dictation
 
+* https://quizlet.com/640866348/spell
+
+![image](https://user-images.githubusercontent.com/16321107/166149901-4e6b7447-0514-4697-82b2-ae8ee4983470.png)
+
+
 ## Match Game
+* 我在Quizlet配對模式中，以6.9秒完成了「TOEIC VOC DAY11 製造與品管」！你能超越我的分數嗎？
+
+* https://quizlet.com/640866348/match?i=1fsxs9&x=1KqY&sc=alf
