@@ -78,6 +78,7 @@ The door is being chained.
 ```
 
 > M: Have you __ **loaded**__ the __ scuba gear (工具)__ into the __ boat __ yet? 
+> 
 > We need enough equipment to take 10 people on a diving trip.
 
 ### 57. What does the woman mention about Splash World?
@@ -93,7 +94,7 @@ The door is being chained.
 ### 先背誦再理解
 
 > * W: Yeah, but I discovered a crack in one of the masks.
-
+>
 > * M: Really? That’s a problem since the other dive group has taken all the spare ones with them.
 > * W: Hmm ... Splash World, the dive supply shop
 
