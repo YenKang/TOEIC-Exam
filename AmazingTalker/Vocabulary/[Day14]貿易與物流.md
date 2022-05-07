@@ -1,6 +1,6 @@
 # [Day14]貿易與物流
 
-* date:2022-05-05(Thur)
+* date:2022-05-05(Wed)
 
 ## 1.Vocabulary
 
