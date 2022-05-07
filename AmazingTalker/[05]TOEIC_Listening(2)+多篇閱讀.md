@@ -40,6 +40,7 @@
 > W: Hello. I’m in town for the medical equipment trade fair.
 >  
 > Unfortunately, we have run out of brochures at our company’s booth. 
+> 
 > I have everything you will need saved on this memory card and was wondering 
 > if I could get __300 copies printed __ today.
 
@@ -52,7 +53,9 @@
 * D) To deliver some pamphlets
 
 ### 原文:
-> M: I’m sorry, but our schedule is really busy. The __ soonest __ I could get them to you is __ tomorrow afternoon __.
+> M: I’m sorry, but our schedule is really busy. 
+> 
+> The __ soonest __ I could get them to you is __ tomorrow afternoon __.
 > 
 > W: Hmm. I think that’s too late, as I need them as soon as possible. Are there any other print shops nearby?
 
@@ -104,8 +107,10 @@ D) determines
 ### 閱讀原文三
 > We are confident that making Olsenburg "RV friendly" will benefit the local tourism industry and its employees.
 
-> Three **nearby** cities [that have lifted similar bans] have reported positive results. Tocasta Town, Gamma Village, and Arcoda City are evidence [that welcoming RV tourists can promote tourism, generating more **revenue** for restaurants and local shops].
-
+> Three **nearby** cities [that have lifted similar bans] have reported positive results. 
+> 
+> Tocasta Town, Gamma Village, and Arcoda City are evidence [that welcoming RV tourists can promote tourism, generating more **revenue** for restaurants and local shops].
+>
 > **Next** month, Arcoda City will even begin **adding** special RV parking areas in its parks.
 
 ### 168. What is suggested about Arcoda City?
@@ -118,10 +123,10 @@ C) It is far away from Olsenburg City.
 ### 閱讀原文四
 
 > As(準關代，代後句) you know, the tourism and food service industries employ over 25 percent of our workforce
-
-
-> Currently, however, many of our visitors are here only during the daytime, so we are losing business to neighboring cities.
-
+>
+> Currently, however, many of our visitors are here only during the daytime, 
+> so we are losing business to neighboring cities.
+>
 > RV tourism would not compete with hotel tourism. In fact, it would only increase the total number of visitors to our city.
 
 ### 169. What is indicated about tourism in Olsenburg City?
@@ -131,7 +136,8 @@ B) Local hotels are frequently overbooked.
 C) Most tourists arrive in recreational vehicles.
 **D) Local restaurants rely on business from tourists**.
 
-> I look forward to seeing you at the meeting next Thursday, [where the city council will address this important issue.]
+> I look forward to seeing you at the meeting next Thursday, 
+> [where the city council will address this important issue.]
 
 * address = deal with / tackle / cope with 
 
