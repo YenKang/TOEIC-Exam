@@ -6,7 +6,7 @@
 
 * 1.`in advance`:register in advance
 * 2.`update`: give an update
-* 3.`complirnace`: be in compliance with law
+* 3.`compliance`: be in compliance with law
 * 5.`enact`: enact a law
 * 6.`restrict`: access to this facility is restricted and strictly monitored
 * 7.`Ban`: Our manager decides to lift the ban on snacking in the office
