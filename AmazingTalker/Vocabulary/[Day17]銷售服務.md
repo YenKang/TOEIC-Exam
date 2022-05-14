@@ -13,8 +13,8 @@
 * 4.`lure`: give out some cold beverages to lure people into the store
 
 * 5.`merit`: The merits of the model are excellent.
-* 6.`plumber`:I called to the plumber to fix the sink tommorrow.
-* 7.`rebate`:offer tax rebate for people who  frequently use city buses
+* 6.`plumber`: I called to the plumber to fix the sink tommorrow.
+* 7.`rebate`: offer tax rebate for people who  frequently use city buses
 * 8.`restore`: the eletrical service on the build will be restore at 10:00 p.m.
     * restore my health
     * restore the water supply
