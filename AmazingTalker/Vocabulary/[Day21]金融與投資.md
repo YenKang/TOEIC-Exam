@@ -4,7 +4,7 @@
 
 ## Vocabulary
 
-* 1.`accure`: 
+* 1.`accrue`: 
     * Holders of the accunt can accure interest monthly.
 
 * 2.`adequate`: have adequate budget and human resoure for the program
