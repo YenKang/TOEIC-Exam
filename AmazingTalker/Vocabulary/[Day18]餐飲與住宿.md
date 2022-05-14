@@ -24,10 +24,10 @@
 
 * 7.`culinary`:The raw features the culinary talents of Chef Yen.
 
-* 8.`linen`: clea the linen from the table
+* 8.`linen`: clean the linen from the table
 
 * 9.`occupancy`: The price for a room is $100 per person and is based on doulble occupancy.
 
 * 10.`premises`: The services on the premises are charged separately from the room fee.
 
-* 11.`tray`:put your tray on a rack
+* 11.`tray`: put your tray on a rack
