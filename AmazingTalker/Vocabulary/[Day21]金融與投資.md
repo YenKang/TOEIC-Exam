@@ -29,15 +29,30 @@
 
 * 11.`commission`: Stock brokers are paid a salary plus a commision on sales.
 
-* 12.`counterfeit`
-* 13.`credit line`
-* 14.`deduct`
-* 15.`delinquent`
-* 16.`discretionary`
-* 17.`pension`
-* 18.`plumnet`
-* 19.`remit`
+* 12.`counterfeit`:
+    * (adj.) counterfeit coin/ passport
+* 13.`credit line`:
+    * (n.) The bank agreed to increase the CarUx's credit line.
+* 14.`deduct`:
+    *My rental monthly payment is automatically deducted from my bank account.
+* 15.`delinquent`:
+    * (adj.) illegal: find causes of delinquent behavior among young people
+    * (adj.) She has been delinquent in paying utility bill.
+    * (n.) juvenile delinquent
+* 16.`discretionary`:
+    * (adj.)The wealth people have more discretionary fund at their proposals.
+* 17.`pension`:
+    * Bill Yen is not able to draw/receive the pension until he is 65.
+* 18.`plummet`
+    * I hope that the house prices in YongKang district will plummet.
+* 19.`remit`:
+    * (v) Please remit your payment before the end of the month in SBD website.
 * 20.`scrutinize`
-* 21.`statement`
-* 22.`withdrawl`
+    * (v.) We need to scrutinize the product-line value in every sample build.
+* 21.`statement`:
+    * (v.) MJ has launched the online financial statement course in May.
+* 22.`withdrawal`
+    * (n.) Autoimatic withdrawal is the basic feature of the online bank.
+    * (n.) Withdrawal is a classic symptom of depression.
+    * (n.) The politician's sudden withdrawal is very suprising
 
