@@ -1,3 +1,6 @@
+# Vocabulary
+* [Daily Work](https://github.com/YenKang/TOEIC-Exam/tree/main/AmazingTalker/Vocabulary)
+
 # TOEIC-Exam
 
 | Course   | Date     | Remark |
