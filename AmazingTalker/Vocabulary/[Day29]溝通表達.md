@@ -19,6 +19,6 @@
 * 5.`immensely`:
     * (adj.) I enjoy fitness training course immensely.
 
-* 6. `skeptical`:
+* 6.`skeptical`:
     * (adj.) Sam remains skeptical that he could turn around the company's ailing fortunes.
 
