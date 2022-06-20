@@ -96,15 +96,17 @@ The Blue Valley motto has always been "A happy guest is our greatest treasure."
 * Q11 準備30秒，回答60秒
 
 Question:
-(Narrator): Some people prefer to take a job that does not pay well but does provide a lot of time off from work. What
-is your opinion about taking a job with a low salary that has a lot of vacation time? Give reasons for your opinion.
+(Narrator): 
+> * Some people prefer to take a job that does not pay well but does provide a lot of time off from work. 
+> * What is your opinion about taking a job with a low salary that has a lot of vacation time? 
+> * Give reasons for your opinion.
 
 ## P5 作答技巧:
 
 ### 模板:
-> 1.Introduction Opinion
-> 2.Body
-> 3.Consludion
+> * 1.Introduction Opinion
+> * 2.Body
+> * 3.Consludion
 
 ## 1.Introduction Opinion
 
