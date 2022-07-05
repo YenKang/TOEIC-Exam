@@ -1,4 +1,4 @@
-# [C17]Writing Essay Template
+# [17]Writing Essay Template
 
 * date:2022-07-03(Sun)
 
@@ -45,7 +45,7 @@
 
 ## Homework of 0712
 
-### PART 3 : 陳述意見（Write an opinion）
+### [PART 3 : 陳述意見（Write an opinion）](https://github.com/YenKang/TOEIC-Exam/blob/main/AmazingTalker/Mock%20Exam/Writing%20Assignment/%5B01%5DWriting%20Exam.md#part3-answer)
 
 > * There are many ways to find a job: 
 > newspaper advertisements, 
