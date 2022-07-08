@@ -39,6 +39,7 @@
 ### 4.Ending
 
 * I look forward to hearing from you.
+* Should you have any question, please contact me.
 * Sincerely yours, // All the best
 * James Yang / Bryan
 
