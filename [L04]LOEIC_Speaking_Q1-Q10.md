@@ -19,11 +19,11 @@
 * 地點---人物---動作---評論
 * 得多練習，跟大量練習
 
-### 3.Answer Question
+## 3.Answer Question
 * Q6:用相關term，像是rainbow
 * Q7:須提前思考模板形容詞
 
-## 4.Answer Question by Inf
+## 4.Answer Question by Info
 * Q8: 完整回答全部表格資訊，
 * Q9: 有可能有陷阱題，需用其他答題方式
 * Q10: 開頭要精簡，才能講到全部資訊，由左到右
