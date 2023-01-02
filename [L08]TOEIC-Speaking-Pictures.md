@@ -29,3 +29,9 @@
 * in front of the countter (O)
 * near the counter (X)
 * Stand in line to wait for sb to V.
+
+## Picture4
+* 公園有三人坐在長椅，兩人在下棋，一人在讀東西
+
+### 單字
+* On bottom-right of the picture
