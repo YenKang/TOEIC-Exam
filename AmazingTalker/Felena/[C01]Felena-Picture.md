@@ -10,6 +10,7 @@
     - Q4
 
 ## 1.Picture Practice Way
+![image](https://user-images.githubusercontent.com/16321107/224450320-0b5c5328-afbb-4bf4-951b-0bcd8fb30fd0.png)
 
 
 ## TOEIC-Speaking-Test02
