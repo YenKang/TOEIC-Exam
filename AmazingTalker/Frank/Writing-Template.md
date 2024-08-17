@@ -6,8 +6,8 @@
 ### Template 1
 > * Dear  xxx Comment
 > * I am writing the email in regard to 
-> * + summarize
-
+> *  summarize
+> 
 > * Best regards
 =======================================
 ### Template 2
